@@ -1,63 +1,63 @@
 const MOVIES = [
   {
-    "poster_path": "/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
-    "title": "Homem-Aranha: Sem Volta Para Casa",
+    poster: "https://image.tmdb.org/t/p/w500/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+    title: "Homem-Aranha: Sem Volta Para Casa",
   },
   {
-    "poster_path": "/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
-    "title": "Guardiões da Galáxia: Vol. 3",
+    poster: "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+    title: "Guardiões da Galáxia: Vol. 3",
   },
   {
-    "poster_path": "/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
-    "title": "Vingadores: Ultimato",
+    poster: "https://image.tmdb.org/t/p/w500/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+    title: "Vingadores: Ultimato",
   },
   {
-    "poster_path": "/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",
-    "title": "Os Vingadores: The Avengers",
+    poster: "https://image.tmdb.org/t/p/w500/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",
+    title: "Os Vingadores: The Avengers",
   },
   {
-    "poster_path": "/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
-    "title": "Capitão América: Guerra Civil",
+    poster: "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
+    title: "Capitão América: Guerra Civil",
   },
   {
-    "poster_path": "/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg",
-    "title": "Deadpool & Wolverine",
+    poster: "https://image.tmdb.org/t/p/w500/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg",
+    title: "Deadpool & Wolverine",
   },
   {
-    "poster_path": "/ejqquyk7r3GLXPir62rksUmPKj5.jpg",
-    "title": "Homem-Aranha: No Aranhaverso",
+    poster: "https://image.tmdb.org/t/p/w500/ejqquyk7r3GLXPir62rksUmPKj5.jpg",
+    title: "Homem-Aranha: No Aranhaverso",
   },
   {
-    "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
-    "title": "Pantera Negra",
+    poster: "https://image.tmdb.org/t/p/w500/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+    title: "Pantera Negra",
   },
   {
-    "poster_path": "/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",
-    "title": "Logan",
+    poster: "https://image.tmdb.org/t/p/w500/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",
+    title: "Logan",
   },
   {
-    "poster_path": "/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
-    "title": "Capitão América: O Primeiro Vingador",
+    poster: "https://image.tmdb.org/t/p/w500/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
+    title: "Capitão América: O Primeiro Vingador",
   },
   {
-    "poster_path": "/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
-    "title": "Capitão América 2: O Soldado Invernal",
+    poster: "https://image.tmdb.org/t/p/w500/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
+    title: "Capitão América 2: O Soldado Invernal",
   },
   {
-    "poster_path": "/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg",
-    "name": "X-Men '97",
+    poster: "https://image.tmdb.org/t/p/w500/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg",
+    title: "X-Men '97",
   },
   {
-    "poster_path": "/kJQWrrwtu0TAsIKq8Adgzeg4bFt.jpg",
-    "name": "What If...?",
+    poster: "https://image.tmdb.org/t/p/w500/kJQWrrwtu0TAsIKq8Adgzeg4bFt.jpg",
+    title: "What If...?",
   },
   {
-    "poster_path": "/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
-    "title": "Vingadores: Guerra Infinita",
+    poster: "https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+    title: "Vingadores: Guerra Infinita",
   },
   {
-    "poster_path": "/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
-    "name": "Cavaleiro da Lua",
+    poster: "/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
+    title: "Cavaleiro da Lua",
   },
 ];
 
