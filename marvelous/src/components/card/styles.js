@@ -4,8 +4,7 @@ const styles = StyleSheet.create ({
     container: {
         padding: 5,
         flexDirection: 'row',
-        width: 'fit-content',
-        marginHorizontal: 10,
+
     },
     img: {
         height: 180,

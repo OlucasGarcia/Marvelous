@@ -1,11 +1,11 @@
 import React from "react-native";
 import styles from "./styles";
-import { View, Image } from "react-native";
+import { TouchableOpacity, Image } from "react-native";
 
 const Card = ( props ) => {
-    const { onPress, movie} = props;
+    const { onPress, movie } = props;
     return (
-        <View
+        <TouchableOpacity
         style={styles.container}
         onPress={onPress}
         >
@@ -15,7 +15,7 @@ const Card = ( props ) => {
                 uri: movie.poster
             }}
             />
-        </View>
+        </TouchableOpacity>
     );
 }
 
