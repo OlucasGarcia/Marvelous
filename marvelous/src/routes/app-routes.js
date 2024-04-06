@@ -10,7 +10,7 @@ const AppRouter = () => {
     return (
         <NavigationContainer>
             <Stack.Navigator
-            initialRouteName='Details'
+            initialRouteName='Home'
             >
             <Stack.Screen
             name='Home'
