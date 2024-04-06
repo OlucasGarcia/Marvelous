@@ -4,10 +4,15 @@ import { MOVIES } from "../../dataset/movies";
 import Card from "../card";
 import styles from "../card/styles";
 
-const List = () => {
+const List = ({ navigation }) => {
+    const navegar = ( filme ) => {
+        navigation.navigate('Details', { filme });
+    }
+
     return (
         <ScrollView 
         style={styles.container}
+        horizontal={true}
         >
             {
                 MOVIES.map(
@@ -15,6 +20,7 @@ const List = () => {
                         return <Card
                             key={movie.title}
                             movie={movie}
+                            onPress={() => navegar(movie)}
                         />
                     }
                 )
