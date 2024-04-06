@@ -320,7 +320,7 @@ const MOVIES_DETAILS = [
     ],
     "original_language": "en",
     "original_name": "What If...?",
-    overview: "\"What If…?\" reinventa os acontecimentos do UCM, mudando a história de forma surpreendente.",
+    overview: "O que aconteceria com nossos heróis se a história fosse diferente? Qual rumo eles tomariam em sua vida? Como o nome sugere, a animação mostrará um 'e se' para diversos personagens do Universo Cinematográfico da Marvel, como: o que aconteceria se Peggy Carter fosse a Capitã Britânia em vez de ter se tornado a Agente Carter?",
     "popularity": 285.239,
     "poster_path": "/kJQWrrwtu0TAsIKq8Adgzeg4bFt.jpg",
     date: "2021-08-11",
