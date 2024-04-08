@@ -1,7 +1,11 @@
 import React from 'react-native';
 import styles from './styles';
 import { ScrollView, View, Image } from 'react-native';
+
+//import de componentes
 import List from '../../components/list';
+
+//import das imagens e ícones da página
 import Icon from "react-native-vector-icons/AntDesign";
 import Logo from "../../../assets/marvelous_logo.png";
 

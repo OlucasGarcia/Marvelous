@@ -1,9 +1,15 @@
 import React, { TouchableOpacity, View } from "react-native";
 import styles from "./styles";
 import { ScrollView, Image, Text } from "react-native";
-import { MOVIES_DETAILS } from "../../dataset/movies"
+
+//import do dataset
+import { MOVIES_DETAILS } from "../../dataset/movies";
+
+//import de icones e imagens
 import Icon from "react-native-vector-icons/AntDesign";
 import Marvelous from "../../../assets/marvelous_logo.png";
+
+//import de componente de bibliotéca
 import Swiper from "react-native-swiper";
 
 const Details = ({ navigation, route}) => {
