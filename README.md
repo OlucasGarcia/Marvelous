@@ -18,15 +18,18 @@ Este projeto foi criado com o intuito avaliativo para a matéria de Desenvolvime
 
 ## Capturas de Tela
 Aqui estão algumas capturas de tela do aplicativo:
-<div>
-1. **Tela de Login**
-   ![Tela de Login]()
 
-2. **Tela Principal**
-   ![Tela Principal]()
+<div style="display: flex; justify-content: space-between;" align="center">
 
-3. **Tela de Detalhes do Filme**
-   ![Tela de Detalhes do Filme]()
+
+   <img src="https://github.com/user-attachments/assets/bfc5d202-b7d7-4d04-895b-e1f9d1b45e18" width="250px" />
+
+
+   <img src="https://github.com/user-attachments/assets/99ff8bdd-990f-491e-9772-4ae12a014d12" width="250px" />
+
+
+   <img src="https://github.com/user-attachments/assets/905633a5-1aa5-4db9-97df-82ee47c97dd2" width="250px" />
+   
 </div>
 
 ## Instalação
