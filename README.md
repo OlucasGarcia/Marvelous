@@ -1,1 +1,3 @@
-Projeto desenvolvido durante as aulas de Programação de Aplicativos Mobile no curso de Desenvolvimento de Sistemas. O objetivo principal do aplicativo desenvolvido em React Native é mostrar uma lista de cards com filmes e séries ao usuário, e ao clicar em algum card, uma tela de detalhes sobre aquela produção será exibida, onde mostrará informações como a data de lançamento, sinopse e algumas imagens do filme/série.
+## MARVELOUS
+
+
