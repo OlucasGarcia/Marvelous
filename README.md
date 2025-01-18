@@ -1,9 +1,9 @@
 # Marvelous
 
-📄## Descrição
+## 📄 Descrição
 Marvelous é um protótipo de aplicativo mobile desenvolvido em React Native que fornece informações sobre filmes e séries da Marvel, utilizando a API The Movie Database. O aplicativo busca reunir um catálogo das principais produções da Marvel Studios em um design minimalista e intuitivo, inspirado em aplicativos de streaming como a Netflix.
 
-🎯## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 Este projeto foi criado com o intuito avaliativo para a matéria de Desenvolvimento Web no curso técnico de Desenvolvimento de Sistemas.
 
 ## Tabela de Conteúdo
@@ -16,7 +16,7 @@ Este projeto foi criado com o intuito avaliativo para a matéria de Desenvolvime
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
 
-📱## Capturas de Tela
+## 📱 Capturas de Tela
 Aqui estão algumas capturas de tela do aplicativo:
 
 <div style="display: flex; justify-content: space-between;" align="center">
@@ -32,7 +32,7 @@ Aqui estão algumas capturas de tela do aplicativo:
    
 </div>
 
-🔗## Instalação
+## 🔗 Instalação
 Para rodar o projeto, siga os passos abaixo:
 
 1. Clone o repositório:
@@ -58,11 +58,11 @@ Para rodar o projeto, siga os passos abaixo:
 ## Uso
 Após a instalação, você pode explorar o aplicativo navegando pela tela principal, selecionando um filme, e visualizando os detalhes da produção.
 
-👨‍💻## Funcionalidades
+## 👨‍💻 Funcionalidades
 - **Navegação pela Tela Principal**: O usuário pode explorar filmes exibidos na tela inicial.
 - **Detalhes da Produção**: Ao clicar em um card de filme, a tela de detalhes é exibida com informações como banner, título, data de lançamento, descrição e mais imagens.
 
-🛠️## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - **React Native**
 - **JavaScript**
 
