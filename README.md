@@ -37,7 +37,7 @@ Para rodar o projeto, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/OlucasGarcia/Marvelous
    ```
 
 2. Acesse a pasta do projeto:
